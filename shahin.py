@@ -49,6 +49,6 @@ def main():
 def fb():
     print("      WAIT🫸🏻 ")
     time.sleep(0.010)
-    os.system('xdg-open https://www.facebook.com/share/VMQMD8GZF3br6tz2/?mibextid=qi2Omg')
+    os.system('xdg-open https://www.facebook.com/profile.php?id=100063499801479&mibextid=ZbWKwL')
     
 main()                          

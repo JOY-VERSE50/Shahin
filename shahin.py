@@ -24,6 +24,7 @@ def clear():
          
          
 def main():
+    os.system('clear')
     clear()
     print("\033[33m")
     print(40*'-')
